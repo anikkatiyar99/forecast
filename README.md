@@ -15,7 +15,7 @@ For Windows/Linux with docker
 docker-compose up
 ```
 ## Examples
-Post Forecast to recieve total price 
+Get Forecast to recieve forecast for wednesday night 
 ```bash
 GET /forecast HTTP/1.1
 User-Agent: PostmanRuntime/7.29.0
